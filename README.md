@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/stats-preview-card-component-M2yG2xR0XZ)
+- Live Site URL: (https://aquamarine-cendol-817e4a.netlify.app/)
 
 ## My process
 
@@ -75,7 +75,7 @@ Users should be able to:
 
 ### Useful resources
 
-- [Learn CSS Grid for free with Per Harald Borgen](https://scrimba.com/learn/cssgrid) - This helped me with positioning the my divs.
+- [Learn CSS Grid for free with Per Harald Borgen](https://scrimba.com/learn/cssgrid) - This helped me with positioning my divs.
 
 ## Author
 
