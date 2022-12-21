@@ -16,9 +16,10 @@
 <body>
   <main>
     <article class="product">
-      <div class="product__header">
-        <img class="product__img" src="images/image-header-mobile.jpg" alt="employees working on their computers">
-      </div>
+        <picture class="product__header">
+          <source media="(min-width: 600px)" srcset="images/image-header-desktop.jpg">
+          <img class="product__img" src="images/image-header-mobile.jpg" alt="" aria-hidden=“true”>
+        </picture>
       <div class="product__content">
         <h1 class="product__title">Get <span class="product__title-color">insights</span> that help your business grow.
         </h1>

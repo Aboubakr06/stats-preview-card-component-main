@@ -131,7 +131,8 @@ body {
 }
 
 .product__img {
-    opacity: 0.5;
+    opacity: 0.8;
+    mix-blend-mode: multiply;
 }
 
 .product__content {
@@ -176,13 +177,11 @@ body {
     }
 
     .product__header {
-        grid-template-rows: 1fr 1fr;
         grid-column: 2/-1;
         grid-row: 1/-1;
     }
 
     .product__img {
-        content: url("images/image-header-desktop.jpg");
         min-height: 100%;
         grid-row: 1/-1;
     }
